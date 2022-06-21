@@ -3,8 +3,8 @@ The implementation of the ROOM DB.
 
 This includes the:
 
--> Entity
--> Dao
--> Database
--> Repository
--> ViewModel
+-> Entity <br/>
+-> Dao <br/>
+-> Database <br/>
+-> Repository <br/>
+-> ViewModel <br/>
